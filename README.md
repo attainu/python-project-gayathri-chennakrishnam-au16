@@ -19,7 +19,7 @@ run_test_case.txt - use these commands to run the app.
 
 **Step 3**: Make sure your machine has python 3.7 or above installed in your machine.
 
-Technologies and libraries used:
+###### **Technologies and libraries used:**
 
 1. Python 3.9
 2. Flake8
